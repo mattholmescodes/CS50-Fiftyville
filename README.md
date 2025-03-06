@@ -1,6 +1,6 @@
 # Fiftyville by CS50 (Problem Set 7)
 
-This project aims to find the culprit and his assailant as they try to escape from fiftyville after a major theft using SQL queries.
+This project aims to find the culprit and his assailant, as they try to escape from fiftyville after a major theft, using SQL queries.
 
 In log.sql you will find all of my queries in order and my reasoning for each query.
 
